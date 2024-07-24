@@ -36,7 +36,7 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© *`𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙽𝙸𝙼𝙽𝙰𝙳𝙰✨✅`*',
-  STICKER_PACK : '[ ZUSYCO ]',
+  STICKER_PACK : '𝛮𝛪𝛭𝛮𝛥𝐷𝛥 ✨✅',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
